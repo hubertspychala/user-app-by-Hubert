@@ -1,0 +1,29 @@
+.users-main {
+  margin-top: 60px;
+}
+.users-main h1 {
+  color: darkblue;
+  font-size: 36px;
+}
+
+.users-main form input {
+  font-size: 16px;
+  padding: 12px;
+  border: none;
+  width: 160px;
+  outline: 0;
+}
+
+.users-main form button {
+  background-color: #0066ff;
+  font-size: 16px;
+  padding: 12px;
+  border: none;
+  color: #fff;
+  margin: 12px;
+}
+
+.users-main form button:hover {
+  background-color: #003399;
+  cursor: pointer;
+}
