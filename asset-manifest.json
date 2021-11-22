@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/user-app-by-Hubert/static/css/main.fb8453ff.chunk.css",
+    "main.js": "/user-app-by-Hubert/static/js/main.c9755c4b.chunk.js",
+    "main.js.map": "/user-app-by-Hubert/static/js/main.c9755c4b.chunk.js.map",
+    "runtime-main.js": "/user-app-by-Hubert/static/js/runtime-main.665af205.js",
+    "runtime-main.js.map": "/user-app-by-Hubert/static/js/runtime-main.665af205.js.map",
+    "static/js/2.2d6f19b9.chunk.js": "/user-app-by-Hubert/static/js/2.2d6f19b9.chunk.js",
+    "static/js/2.2d6f19b9.chunk.js.map": "/user-app-by-Hubert/static/js/2.2d6f19b9.chunk.js.map",
+    "static/js/3.9da6234f.chunk.js": "/user-app-by-Hubert/static/js/3.9da6234f.chunk.js",
+    "static/js/3.9da6234f.chunk.js.map": "/user-app-by-Hubert/static/js/3.9da6234f.chunk.js.map",
+    "index.html": "/user-app-by-Hubert/index.html",
+    "static/css/main.fb8453ff.chunk.css.map": "/user-app-by-Hubert/static/css/main.fb8453ff.chunk.css.map",
+    "static/js/2.2d6f19b9.chunk.js.LICENSE.txt": "/user-app-by-Hubert/static/js/2.2d6f19b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.665af205.js",
+    "static/js/2.2d6f19b9.chunk.js",
+    "static/css/main.fb8453ff.chunk.css",
+    "static/js/main.c9755c4b.chunk.js"
+  ]
+}
